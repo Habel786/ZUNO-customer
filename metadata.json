@@ -1,0 +1,6 @@
+{
+  "name": "ZUNO Customer",
+  "description": "ZUNO Customer allows customers in India to find and book nearby labour and service workers with real-time tracking and Firebase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
